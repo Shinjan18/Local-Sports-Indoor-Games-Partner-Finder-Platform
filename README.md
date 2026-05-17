@@ -90,3 +90,4 @@ This platform solves that problem by providing a simple and connected digital so
 ### Deployment
 
 - Vercel
+- https://local-sports-indoor-games-partner-f.vercel.app/
